@@ -1,0 +1,31 @@
+.headings{
+    color:rgb(241, 93, 118);
+}
+body{
+    background-image:url("../images/man.jpeg") ;
+    background-repeat: no-repeat;
+}
+img{
+    border-radius: 1em;
+    border-color: black;
+    margin-left:auto;
+    margin-right: auto;
+    display:block;
+}
+p, h1, ul, h2{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+h1{
+    color:rgb(112, 28, 151);
+    text-decoration-thickness: 10%;
+}
+a{
+    color:black;
+    text-align:center;
+}
+a:hover{
+    color:red;
+}
